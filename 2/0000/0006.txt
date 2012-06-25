@@ -34,16 +34,16 @@ DEAKTIVIEREN
 　
 Cursor
 Geh zurueck！
-なにを　しますか？
-あげる
+Was nun？
+Geben
 \xf000Ȃ\x0001\x0000
 ×
-のみ
+Trinken
 \xf000ȃ\x0001\x0000まい
-とじる
-\xf000ĉ\x0001\x0000を　どうしますか？
+Schliessen
+Was ist mit \xf000ĉ\x0001\x0000?
 ここで　メールを\xfffeかくことは　できません！
-ポケモンが　いませんよ！
+Dort ist kein Pokemon！
 \xf000ĉ\x0001\x0000を　いどうさせます
 \xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
 ここでは　\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
