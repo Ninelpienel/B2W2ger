@@ -1,22 +1,22 @@
 EINSETZEN
 MUELL
 REGISTRIEREN
-もたせる
-タグをみる
-けってい
-おりる
-もどる
-やめる
-みせる
-ダミー
-キャンセル
-もちもの
-メール
-あずかる
-あずける
-みる
-なし
-かいじょ
+GEBEN
+SEHEN
+BESTÄTIGEN
+LAUFEN
+ZURUECK
+SCHLIESSEN
+ZEIGEN
+ATRAPPE
+BEENDEN
+TASCHE
+POST
+NEHMEN
+GEBEN
+PRUEFEN
+NICHTS
+DEAKTIVIEREN
 ？？？
 ？？？？？
 ／
@@ -32,8 +32,8 @@ REGISTRIEREN
 →
 ＩＤＮｏ
 　
-カーソル
-まえに　もどります！
+Cursor
+Geh zurueck！
 なにを　しますか？
 あげる
 \xf000Ȃ\x0001\x0000
